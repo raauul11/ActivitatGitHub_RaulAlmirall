@@ -16,6 +16,9 @@ public class GitHub {
      */
     public static void main(String[] args) {
         
+        int Sumaa;
+        Sumaa = Suma(4,7);
+        System.out.println("La suma es: " + Sumaa);
         
         String nombre = TuNombre("Raul");
         System.out.println("Tu nombre tiene: " + nombre.length() + " letras");
