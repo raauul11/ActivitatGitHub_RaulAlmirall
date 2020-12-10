@@ -16,10 +16,7 @@ public class GitHub {
      */
     public static void main(String[] args) {
         
-        int a = 3, b = 5;
-        int suma;
-        suma = 3 + 5;
-        System.out.println(suma);
+        System.out.println("Hola");
     }
     
 }
